@@ -4,6 +4,7 @@ SocialAppTask is a simple social app developed to meet a company’s requirement
 The app consists of two main screens:
 
 PostListView – Displays a list of posts from multiple static users.
+
 CreatePostView – Allows users to add new posts.
 
 This project demonstrates modern Swift development practices, ensuring a clean, modular, and maintainable codebase.
